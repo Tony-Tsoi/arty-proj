@@ -1,0 +1,8 @@
+# Exclude HDL files
+!*.v
+
+# Exclude constraint files
+!*.xdc
+
+# Exclude generated bitstream files
+!*.bit
