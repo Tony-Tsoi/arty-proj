@@ -6,3 +6,10 @@
 
 # Exclude generated bitstream files
 !*.bit
+!*.bin
+
+# Exclude project file
+!*.xpr
+
+# Not include Vivado-generated
+synthesis/*
